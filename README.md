@@ -1,11 +1,11 @@
-# How to run endpoint
+## How to run endpoint
 
 ```
-npm run start
+npm start
 ```
 
-# How to run test
+## How to run test
 
 ```
-npm run test
+npm test
 ```
